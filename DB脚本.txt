@@ -1,0 +1,9 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Lisz123456789/7891DBNB/main/DB服务器"))()
+服务器功能看公告
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Lisz123456789/67/main/DB动画包"))()
+动画包功能动画包可以正常使用，动作不能用说明你网络不好可以换加速器
+loadstring(game:HttpGet("https://raw.githubusercontent.com/dish-rr/DB-scriptnb/main/DB-script101.lua"))()
+这是主脚本
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Lisz123456789/DBNB/main/DB通用"))()
+这是通用的功能品类很多
+主群:1080905080
